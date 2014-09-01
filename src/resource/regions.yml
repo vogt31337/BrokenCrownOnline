@@ -1,0 +1,42 @@
+&1 !de.twisted.radio.DAOs.Region
+name: Qishi
+emblem: resource/pin_yellow.png
+positionX: 377.0
+positionY: 173.0
+--- *1
+--- &2 !de.twisted.radio.DAOs.Region
+name: Kuang Tu
+emblem: resource/pin_yellow.png
+positionX: 108.0
+positionY: 212.0
+--- *2
+--- &3 !de.twisted.radio.DAOs.Region
+name: Huo
+emblem: resource/pin_yellow.png
+positionX: 294.0
+positionY: 516.0
+--- *3
+--- &4 !de.twisted.radio.DAOs.Region
+name: Xiannen Mu
+emblem: resource/pin_yellow.png
+positionX: 452.0
+positionY: 412.0
+--- *4
+--- &5 !de.twisted.radio.DAOs.Region
+name: Xiaoyu
+emblem: resource/pin_yellow.png
+positionX: 653.0
+positionY: 415.0
+--- *5
+--- &6 !de.twisted.radio.DAOs.Region
+name: Shangbu
+emblem: resource/pin_yellow.png
+positionX: 478.0
+positionY: 596.0
+--- *6
+--- &7 !de.twisted.radio.DAOs.Region
+name: Zheng Qi
+emblem: resource/pin_yellow.png
+positionX: 825.0
+positionY: 646.0
+--- *7

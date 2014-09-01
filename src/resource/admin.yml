@@ -1,0 +1,39 @@
+!de.twisted.radio.DAOs.UserDAO
+ownedRegions: 
+- !de.twisted.radio.DAOs.Region
+   name: Qishi
+   emblem: resource/pin_yellow.png
+   positionX: 377.0
+   positionY: 173.0
+- !de.twisted.radio.DAOs.Region
+   name: Kuang Tu
+   emblem: resource/pin_yellow.png
+   positionX: 108.0
+   positionY: 212.0
+- !de.twisted.radio.DAOs.Region
+   name: Huo
+   emblem: resource/pin_yellow.png
+   positionX: 294.0
+   positionY: 516.0
+- !de.twisted.radio.DAOs.Region
+   name: Xiannen Mu
+   emblem: resource/pin_yellow.png
+   positionX: 452.0
+   positionY: 412.0
+- !de.twisted.radio.DAOs.Region
+   name: Xiaoyu
+   emblem: resource/pin_yellow.png
+   positionX: 653.0
+   positionY: 415.0
+- !de.twisted.radio.DAOs.Region
+   name: Shangbu
+   emblem: resource/pin_yellow.png
+   positionX: 478.0
+   positionY: 596.0
+- !de.twisted.radio.DAOs.Region
+   name: Zheng Qi
+   emblem: resource/pin_yellow.png
+   positionX: 825.0
+   positionY: 646.0
+pwStored: Mm9RGWNd1hZAeXOEzpIcmbkYEjFF/i3ar9p6MzhtWv0=$A5D1GCW2G9twTKVSZFJNuAXA3/Kogzm413yB4VjauTw=
+userName: admin
